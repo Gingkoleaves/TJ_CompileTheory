@@ -34,18 +34,7 @@ struct TokenView {
 }
 
 async fn serve_index() -> Response {
-        let html = r#"<!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Easy Server</title>
-    </head>
-    <body>
-        <h1>Easy Server is running</h1>
-        <p>Use POST /api/analyze with JSON: {"source": "..."}</p>
-    </body>
-</html>"#;
+    let html = include_str!("../../index.html");
     (StatusCode::OK, [(header::CONTENT_TYPE, "text/html; charset=utf-8")], html).into_response()
 }
 
