@@ -25,7 +25,7 @@
 
 `course_design/TJ_CompileTheory/` 是一个用 Rust 实现的类 Rust 迷你语言编译器前端，包含词法分析、语法分析、语义分析与四元式中间代码生成，并提供本地 Web 展示界面。
 
-详细说明见 [course_design/TJ_CompileTheory/README.md](course_design/TJ_CompileTheory/README.md)。
+详细说明见 [course_design/TJ_CompileTheory_CourseDesign/README.md](course_design/TJ_CompileTheory_CourseDesign/README.md)。
 
 ### 快速启动
 
