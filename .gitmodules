@@ -1,0 +1,3 @@
+[submodule "course_design/TJ_CompileTheory"]
+	path = course_design/TJ_CompileTheory
+	url = https://github.com/Gingkoleaves/TJ_CompileTheory.git
