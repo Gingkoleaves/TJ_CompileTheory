@@ -17,3 +17,4 @@ hw/chap2/chap2.pdf filter=lfs diff=lfs merge=lfs -text
 hw/chap3/chap3.pdf filter=lfs diff=lfs merge=lfs -text
 hw/chap4/chap4.pdf filter=lfs diff=lfs merge=lfs -text
 hw/chap5/chap5.pdf filter=lfs diff=lfs merge=lfs -text
+ppts/第八章[[:space:]]符号表(2).ppt filter=lfs diff=lfs merge=lfs -text
