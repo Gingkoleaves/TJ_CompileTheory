@@ -10,3 +10,10 @@ ppts/第十章[[:space:]]优化.ppt filter=lfs diff=lfs merge=lfs -text
 ppts/开学篇-编译原理.ppt filter=lfs diff=lfs merge=lfs -text
 ppts/第七章[[:space:]]语义分析和中间代码产生.ppt filter=lfs diff=lfs merge=lfs -text
 ppts/第九章[[:space:]]运行时存储空间组织.ppt filter=lfs diff=lfs merge=lfs -text
+hw/chap7/chap7.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap9/chap9.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap10/chap10.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap2/chap2.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap3/chap3.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap4/chap4.pdf filter=lfs diff=lfs merge=lfs -text
+hw/chap5/chap5.pdf filter=lfs diff=lfs merge=lfs -text
